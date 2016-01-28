@@ -13,6 +13,10 @@
 
 * mCustomScrollbar [查看->]: [https://github.com/malihu/malihu-custom-scrollbar-plugin](https://github.com/malihu/malihu-custom-scrollbar-plugin)
 
+###图片播放插件
+
+* prettyPhoto [查看->]: [https://github.com/scaron/prettyphoto](https://github.com/scaron/prettyphoto)
+
 ###分页插件
 
 * pagination [查看->]: 
