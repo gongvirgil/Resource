@@ -20,3 +20,9 @@
 ###分页插件
 
 * pagination [查看->]: 
+
+##bootstrap控件
+
+###开关按钮
+
+* bootstrap-switch [查看->]: [https://github.com/nostalgiaz/bootstrap-switch](https://github.com/nostalgiaz/bootstrap-switch)
